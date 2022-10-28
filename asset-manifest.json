@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debounce_task/static/css/main.76991899.css",
+    "main.js": "/debounce_task/static/js/main.6c33f10d.js",
+    "static/js/787.c286ce77.chunk.js": "/debounce_task/static/js/787.c286ce77.chunk.js",
+    "index.html": "/debounce_task/index.html",
+    "main.76991899.css.map": "/debounce_task/static/css/main.76991899.css.map",
+    "main.6c33f10d.js.map": "/debounce_task/static/js/main.6c33f10d.js.map",
+    "787.c286ce77.chunk.js.map": "/debounce_task/static/js/787.c286ce77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76991899.css",
+    "static/js/main.6c33f10d.js"
+  ]
+}
